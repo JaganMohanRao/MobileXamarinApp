@@ -1,0 +1,5 @@
+E:\Xamarin\TestProjects\OnlyDatePicker\Test_ClassLibrary.portable\bin\Debug\Test_ClassLibrary.portable.dll
+E:\Xamarin\TestProjects\OnlyDatePicker\Test_ClassLibrary.portable\bin\Debug\Test_ClassLibrary.portable.pdb
+E:\Xamarin\TestProjects\OnlyDatePicker\Test_ClassLibrary.portable\obj\Debug\Test_ClassLibrary.portable.csprojResolveAssemblyReference.cache
+E:\Xamarin\TestProjects\OnlyDatePicker\Test_ClassLibrary.portable\obj\Debug\Test_ClassLibrary.portable.dll
+E:\Xamarin\TestProjects\OnlyDatePicker\Test_ClassLibrary.portable\obj\Debug\Test_ClassLibrary.portable.pdb

@@ -1,0 +1,4 @@
+OnlyDatePicker.Droid.MainActivity, OnlyDatePicker.Droid;md59a648de802cb2a1bb42321999a0032ed.MainActivity
+OnlyDatePicker.Droid.MainActivity, OnlyDatePicker.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59a648de802cb2a1bb42321999a0032ed.MainActivity
+OnlyDatePicker.Droid.MainActivity;md59a648de802cb2a1bb42321999a0032ed.MainActivity
+onlydatepicker.droid.MainActivity;md59a648de802cb2a1bb42321999a0032ed.MainActivity
